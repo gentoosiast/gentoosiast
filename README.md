@@ -1,6 +1,6 @@
 ### Hi there. Здравствуйте  👋
 
-- 🌱 I’m currently learning ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+- 🌱 I’m currently learning ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) and ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 <!--
 **gentoosiast/gentoosiast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
