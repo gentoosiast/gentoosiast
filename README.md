@@ -1,6 +1,6 @@
 ### Hi there. Здравствуйте  👋
 
-- Currently just having fun 🎉
+The Future is Bright. And Full of Wonders ✨
 
 <!--
 **gentoosiast/gentoosiast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
