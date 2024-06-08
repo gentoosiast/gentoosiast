@@ -1,5 +1,7 @@
 ### Hi there. Здравствуйте  👋
 
+Currently I'm learning working with Amazon Web Services (AWS) ☁️
+
 The Future is Bright. And Full of Wonders ✨
 
 <!--
