@@ -1,5 +1,7 @@
 ### Hi there. Здравствуйте  👋
 
+Currently I'm learning Rust 🦀 in my spare time.
+
 The Future is Bright. And Full of Wonders ✨
 
 <!--
